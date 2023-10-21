@@ -1,0 +1,17 @@
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\bin\Debug\OOP_BSCS2A_Belo.exe.config
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\bin\Debug\OOP_BSCS2A_Belo.exe
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\bin\Debug\OOP_BSCS2A_Belo.pdb
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\bin\Debug\OOP_BSCS2A_Belo.xml
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.vbproj.AssemblyReference.cache
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Form1.resources
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Resources.resources
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.vbproj.GenerateResource.cache
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.vbproj.CoreCompileInputs.cache
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.exe
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.xml
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.pdb
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Form2.resources
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Form4.resources
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Form3.resources
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Form5.resources
+C:\Users\ITLAB-08\source\repos\OOP_BSCS2A_Belo\obj\Debug\OOP_BSCS2A_Belo.Form6.resources
